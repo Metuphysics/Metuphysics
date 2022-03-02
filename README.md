@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Metuphysics
 - 👀 I’m interested in pyhsics and code
 - 🌱 I’m diligent Coding Images
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on 3D stereo vision with Tensorflow or Pytorch
 - 📫 How to reach me ...ıdk can u?
 
 <!---
