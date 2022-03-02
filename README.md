@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Metuphysics
 - 👀 I’m interested in pyhsics and code
-- 🌱 I’m currently learning 3-D stereovision 
+- 🌱 I’m diligent Coding Images
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ...ıdk can u?
 
 <!---
 Metuphysics/Metuphysics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
